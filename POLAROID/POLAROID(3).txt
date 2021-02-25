@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <body style="color:#824A26";>
+ <link rel="stylesheet" href="POLAROID.css">
+<title>POLAROID ONESTEP+</title>
+</head>
+<body>
+ <h1> POLAROID ONESTEP+</h1>
+<br> Полароид бывает 2-ух видов: белый и чёрный. На каждом полароиде посредине представлена культовая радужная полоса. 
+<br>Лучшее в OneStep Plus- это то, что он имеет высокотехнологичные возможности, сохраняя при этом стиль и атмосферу ретро-полароида. В Латвии Polaroid OneStep Plus стоит около 160-170 евро.
+  <img src="сбоку.jpg" alt="POS+">
+  <img src="сверху.jpg" alt="POS+">
+  <img src="сзади.jpg" alt="POS+">
+  <img src="белый.jpg" alt="POS+">
+  <img src="белый сбоку.jpg" alt="POS+">
+</body>
+</html>
